@@ -1,6 +1,6 @@
 ---
 title: "Data Appendix to \"Name of your paper\""
-author: "Your name"
+author: "Susan Sayre"
 output: 
   pdf_document:
     toc: true
