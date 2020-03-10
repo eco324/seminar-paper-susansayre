@@ -1,5 +1,5 @@
 ---
-title: "Data Appendix to \"Name of your paper\""
+title: "Data Appendix to \"Title of My Seminar Paper\""
 author: "Susan Sayre"
 output: 
   pdf_document:
